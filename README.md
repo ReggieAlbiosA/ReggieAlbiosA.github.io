@@ -160,10 +160,3 @@ Email: pureprogrammingph@gmail.com
 
 ------------------------------------------------------------------------
 
-```{=html}
-<p align="center">
-```
-Building software where engineering meets thoughtful design.
-```{=html}
-</p>
-```
