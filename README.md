@@ -152,13 +152,11 @@ Interested in contributing to:
 
 # 📫 Connect With Me
 
-Portfolio: YOUR_WEBSITE
+Portfolio: https://reggiealbiosa.github.io/
 
-GitHub: YOUR_GITHUB
+GitHub: https://github.com/ReggieAlbiosA
 
-LinkedIn: YOUR_LINKEDIN
-
-Email: YOUR_EMAIL
+Email: pureprogrammingph@gmail.com
 
 ------------------------------------------------------------------------
 
