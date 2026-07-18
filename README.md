@@ -1,20 +1,171 @@
-# 🌐 Reggie's Personal Website Source
+# Hi, I'm Reggie Albios 👋
 
-Welcome to the repository for my personal portfolio and developer hub, hosted on GitHub Pages. 
+### Full-Stack Engineer building modern web applications with a focus on performance, clean architecture, and thoughtful user experiences.
 
-As a Full-Stack Engineer, I specialize in building highly interactive, performance-driven web applications. This site serves as a central directory for my open-source
-contributions, technical writing, and major software projects.
+I enjoy transforming ideas into reliable digital products --- from
+designing interfaces and building scalable systems to deploying and
+improving production applications.
 
-## 🎨 Spotlight: Pixhue
-My flagship project is **[Pixhue](https://pixhue.co)**. 
+Currently building **PixHue** --- a platform for discovering,
+generating, and managing color palettes for designers and developers.
 
-Pixhue is an advanced digital workspace tailored for designers and creatives to instantly generate, refine, and export beautiful color palettes. 
+------------------------------------------------------------------------
 
-**Technical highlights of Pixhue:**
-*   **Realtime Data:** Powered by Supabase for instant state synchronization.
-*   **Modern Frontend:** Built on Next.js 16 (App Router) utilizing the new React Compiler for optimal rendering speed.
-*   **Immersive UI:** Integrating WebGL and Three.js to provide a 3D-accelerated user experience.
-*   **Robust Backend:** Data modeling and migrations managed through Prisma v7 on PostgreSQL.
+## 🚀 Currently Building
 
----
-*Visit the live application here:* **[Launch Pixhue](https://pixhue.co)**
+### 🎨 PixHue
+
+A modern color platform designed to help designers and developers
+discover, generate, organize, and manage color palettes.
+
+**Current focus:**
+
+-   Building scalable product architecture
+-   Improving UI/UX experiences
+-   Developing color utilities
+-   Optimizing performance
+-   Exploring SaaS architecture
+
+------------------------------------------------------------------------
+
+## 👨‍💻 About Me
+
+-   💻 Full-Stack Engineer focused on modern web applications
+-   🏗️ Building products from concept to production
+-   🎨 Interested in UI/UX, design systems, and developer experiences
+-   ⚡ Passionate about clean architecture and maintainable software
+-   🌱 Continuously learning system design, infrastructure, and scalable
+    engineering practices
+-   🌏 Based in the Philippines
+
+------------------------------------------------------------------------
+
+# 🛠️ Tech Stack
+
+## Frontend
+
+-   TypeScript
+-   JavaScript
+-   React
+-   Next.js
+-   Tailwind CSS
+
+## Backend
+
+-   Node.js
+-   Express.js
+-   REST APIs
+-   Authentication Systems
+-   Server Architecture
+
+## Database
+
+-   PostgreSQL
+-   MySQL
+-   SQLite
+
+## Infrastructure & Tools
+
+-   Docker
+-   Linux
+-   Git
+-   GitHub Actions
+
+------------------------------------------------------------------------
+
+# 🌟 Featured Projects
+
+## 🎨 PixHue
+
+A color palette platform for designers and developers.
+
+Features:
+
+-   Color palette generation
+-   Palette organization
+-   Color utilities
+-   Responsive interface
+-   User-focused workflow
+
+Built with:
+
+    Next.js
+    TypeScript
+    Tailwind CSS
+    Node.js
+    PostgreSQL
+
+------------------------------------------------------------------------
+
+## 💻 Developer Portfolio
+
+A personal portfolio showcasing my engineering journey, projects, and
+technical approach.
+
+Built with:
+
+    Next.js
+    TypeScript
+    Tailwind CSS
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Activity
+
+Add your GitHub statistics widgets here.
+
+------------------------------------------------------------------------
+
+# 🔭 Currently Exploring
+
+-   System Design
+-   Cloud Infrastructure
+-   DevOps Practices
+-   Distributed Systems
+-   Web Performance Optimization
+-   Scalable SaaS Architecture
+
+------------------------------------------------------------------------
+
+# 💡 Engineering Principles
+
+    Clean architecture over unnecessary complexity.
+
+    Performance is part of user experience.
+
+    Simple systems are easier to maintain.
+
+    Good software evolves continuously.
+
+------------------------------------------------------------------------
+
+# 🌱 Open Source & Community
+
+Interested in contributing to:
+
+-   Developer tools
+-   Open-source utilities
+-   Web technologies
+-   Design systems
+
+------------------------------------------------------------------------
+
+# 📫 Connect With Me
+
+Portfolio: YOUR_WEBSITE
+
+GitHub: YOUR_GITHUB
+
+LinkedIn: YOUR_LINKEDIN
+
+Email: YOUR_EMAIL
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+Building software where engineering meets thoughtful design.
+```{=html}
+</p>
+```
